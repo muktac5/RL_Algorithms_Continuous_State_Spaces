@@ -36,7 +36,7 @@ This repository implements various Reinforcement Learning (RL) algorithms to sol
    ```
 
 ## Results
-##REINFORCE with Baseline results:
+## REINFORCE with Baseline results:
 ### Cartpole :
 ![](cartpole_rf_results/cartpole_evaluation.gif)
 
