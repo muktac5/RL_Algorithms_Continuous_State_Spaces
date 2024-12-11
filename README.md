@@ -20,7 +20,7 @@ This repository implements various Reinforcement Learning (RL) algorithms to sol
 - `cartpole_ppo.py`: PPO implementation for CartPole.
 - `acrobot_ppo.py`: PPO implementation for Acrobot.
 - `semigradnstepSarsa.py`: Semi-Gradient N-Step SARSA implementation.
-- `cm_MCTS.py`: Supporting Monte Carlo Tree Search module. [Experiment]
+- `cm_MCTS.py`: Monte Carlo Tree Search module over CatVSMonsters environment [Experiment]
 - **Results and Logs**:
   - Contains visualizations of reward trends, mean and standard deviations, and hyperparameter analysis.
 
