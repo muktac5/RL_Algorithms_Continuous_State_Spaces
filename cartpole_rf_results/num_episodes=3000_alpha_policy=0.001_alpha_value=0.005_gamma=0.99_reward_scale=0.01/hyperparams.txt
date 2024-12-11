@@ -1,0 +1,5 @@
+num_episodes: 3000
+alpha_policy: 0.001
+alpha_value: 0.005
+gamma: 0.99
+reward_scale: 0.01
